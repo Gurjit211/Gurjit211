@@ -2,7 +2,7 @@
 <b><h1 align="center">Hi 👋, I'm Gurjit</h1></b>
 <h3 align="center">A passionate software developer</h3>
 
-🔭 I’m currently working on my [Capstone Project – FitnessFAC](https://fitnessfac.ca/)
+<b>🔭 I’m currently working on my [Capstone Project – FitnessFAC](https://fitnessfac.ca/)</b>
 <h3 align="center">🚀 Languages and Tools</h3>
 
 <p align="center">
@@ -45,3 +45,14 @@
   <a href="#" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
+
+## 🔥 My Stats :
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurjit211&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjit211&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
