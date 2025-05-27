@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <b>🔭 I’m currently working on my [Capstone Project – Fitness Factory App](https://fitnessfac.ca/)</b>
-<h3 align="center">🚀 Languages and Tools</h3>
+<h3 align="center"> 💻 Languages and Tools</h3>
 
 <p align="center">
   <a href="#" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
