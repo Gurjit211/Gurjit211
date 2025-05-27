@@ -46,7 +46,7 @@
   <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-## 🔥 My Stats :
+## ☀️ My Stats :
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurjit211&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats"/>
