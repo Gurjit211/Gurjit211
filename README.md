@@ -1,7 +1,7 @@
 
 <b><h1 align="center">Hi 👋, I'm Gurjit</h1></b>
 <b><h4 align="center"> A passionate software developer</h4></b>
-<b> #️⃣ I have  worked with my [Capstone Project for Fitness Factory App](https://fitnessfac.ca/) &nbps at Humber Polytechnic</b>
+<b> #️⃣ I have  worked with my [Capstone Project for Fitness Factory App](https://fitnessfac.ca/) &nbps; at Humber Polytechnic</b>
 <h3 align="center"> 💻 Languages and Tools</h3>
 
 <p align="center">
