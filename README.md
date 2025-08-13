@@ -1,5 +1,5 @@
 
-<b><h1 align="center">Hi 👋, I'm Gurjit</h1></b><br>
+<b><h1 align="center">Hi 👋, I'm Gurjit</h1></b>
 <b><h4 align="center"> A passionate software developer</h4></b>
 <b>🔭 I’m currently working on my [Capstone Project – Fitness Factory App](https://fitnessfac.ca/)</b>
 <h3 align="center"> 💻 Languages and Tools</h3>
