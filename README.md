@@ -1,6 +1,5 @@
 
-<b><h1 align="center">Hi 👋, I'm Gurjit</h1></b>
-<h3 align="center">A passionate software developer</h3>
+<b><h1 align="center">Hi 👋, I'm Gurjit &nbsp; &nbsp;</h1> <h4>A passionate software developer</h4></b>
  <h3 align="center"> https://gurjit211.vercel.app/</h3>
 
 <b>🔭 I’m currently working on my [Capstone Project – Fitness Factory App](https://fitnessfac.ca/)</b>
