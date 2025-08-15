@@ -1,9 +1,7 @@
 
 <b><h1 align="center">Hi 👋, I'm Gurjit</h1></b>
 <b><h4 align="center"> 
-  A passionate software developer  
-  <a href="https://gurjit211.vercel.app">gurjit211.vercel.app</a>
-</h4></b>
+  A passionate software developer </h4></b>
 <b> #️⃣ I have worked with my Capstone Project for 
 <a href="https://fitnessfac.ca/">Fitness Factory App Inc</a> at Humber Polytechnic</b>
 
