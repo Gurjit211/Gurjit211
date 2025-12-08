@@ -13,9 +13,14 @@
 
 ##
 <h3 align="center"> 💻 Languages and Tools</h3>
-
 <p align="center">
-  <a href="#" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
+
+  
+  <a href="#" title="Power BI"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#" title="Tableau">
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
   <a href="#" title="AngularJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -53,6 +58,7 @@
   <a href="#" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="#" title="Android"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 
 ### #️⃣ My Stats :
