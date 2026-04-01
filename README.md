@@ -16,11 +16,11 @@
 <p align="center">
 
   
-  <a href="#" title="Power BI"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="#" title="Tableau">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+  
 
+<a href="https://spring.io/" title="Java Spring Framework">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+</a>&nbsp;&nbsp;
   <a href="#" title="AngularJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -42,6 +42,10 @@
   <a href="#" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#" title="Power BI"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="#" title="Tableau">
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+</a>&nbsp;&nbsp;
   <a href="#" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
