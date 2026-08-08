@@ -102,7 +102,7 @@ AI-powered workout generation application using:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gurjit211&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gurjit211&bg_color=ffffff&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true"
     alt="Gurjit's GitHub Activity Graph"
   />
 </p>
