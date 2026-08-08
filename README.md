@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Technologies & Skills
 
 ### Backend
 
