@@ -2,53 +2,38 @@
 
 ### A passionate software developer
 
-<p>
-  <a href="https://www.linkedin.com/in/gurjitsinghsidhu1/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <img src="https://img.shields.io/badge/GURJIT%20SINGH%20SIDHU-0077B5?style=for-the-badge&logoColor=white" alt="Gurjit Singh Sidhu"/>
-  </a>
-  <a href="https://github.com/Gurjit211" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/PROFILE-333333?style=for-the-badge" alt="GitHub Profile"/>
-  </a>
-  <a href="https://gurjitsidhu.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-444444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-    <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge" alt="Website"/>
-  </a>
-</p>
-
 ---
 
-## Technologies & Skills
+## 👨‍💻 Technologies & Skills
 
-### Backend
-
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,kotlin" />
 </p>
 
-### Frontend
-
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" />
 </p>
 
-### Programming Languages
-
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,kotlin" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
 </p>
 
-### Database & Cloud
-
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,azure" alt="Database and Cloud Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase" />
 </p>
 
-### Tools & Technologies
-
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,vscode,linux" alt="Tools and Technologies"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
@@ -68,10 +53,3 @@
     alt="Gurjit's GitHub Streak"
   />
 </p>
-- Python
-- LangChain
-- Flutter
-- Laravel
-- MySQL
-- REST APIs
-- Docker
