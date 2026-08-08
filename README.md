@@ -68,26 +68,6 @@
     alt="Gurjit's GitHub Streak"
   />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Retail Sphere — E-Commerce Application
-
-Full-stack e-commerce application built using:
-
-- Java
-- Spring Boot
-- React
-- MySQL
-- REST APIs
-- JWT Authentication
-
-### 🏋️ Fitness Factory
-
-AI-powered workout generation application using:
-
 - Python
 - LangChain
 - Flutter
