@@ -23,7 +23,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ### ☁️ Cloud & DevOps
