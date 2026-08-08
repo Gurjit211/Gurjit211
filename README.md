@@ -22,8 +22,9 @@
 </p>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" align="center" style="margin-left: 4px;" />
 </p>
 
 ### ☁️ Cloud & DevOps
