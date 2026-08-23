@@ -1,6 +1,4 @@
-# Hi 👋, I'm Gurjit
-
-### A passionate software developer
+# System.out.println("  full stack developer ");
 
 ---
 ## 🔗 Connect & Portfolio
