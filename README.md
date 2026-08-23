@@ -1,7 +1,7 @@
 # System.out.println("  full stack developer ");
 
 ---
-## 🔗 Connect & Portfolio
+##  Connect & Portfolio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gurjitsinghsidhu1/" target="_blank">
