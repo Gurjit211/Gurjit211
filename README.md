@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" width="48" height="48" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" width="48" height="48" alt="Tableau" />
 </p>
 
