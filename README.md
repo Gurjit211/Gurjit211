@@ -38,11 +38,14 @@
 </p>
 
 ### 🤖 Machine Learning | 🗄️ Big Data | 📊 Business Intelligence
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,hadoop,spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" width="48" height="48" alt="Tableau" />
 </p>
 
 ### ☁️ Cloud & DevOps
