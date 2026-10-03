@@ -57,21 +57,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
-
----
-
-## 📊 My Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gurjit211&show_icons=true&hide_border=true&theme=default"
-    alt="Gurjit's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Gurjit211&hide_border=true"
-    alt="Gurjit's GitHub Streak"
-  />
-</p>
